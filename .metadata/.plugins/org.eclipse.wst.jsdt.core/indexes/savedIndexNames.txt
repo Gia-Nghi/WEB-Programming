@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\UNIVERSITY\HK1-Y3\Lap Trinh Web\Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1652997604.index
+4255108089.index
+2380175872.index
+1588197171.index
+2968794750.index
+2554592717.index
